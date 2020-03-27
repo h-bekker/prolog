@@ -1,0 +1,12 @@
+row(a, b, 10).
+row(a, d, 4).
+row(b, e, 3).
+row(e, d, 3).
+row(a, e, 1).
+row(b, c, 1).
+row(d, c, 1).
+row(e, c, 2).
+row(b, f, 15).
+row(d, f, 7).
+row(d, g, 5).
+row(f, g, 6).
